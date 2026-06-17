@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Banner](AMRESH (2).png)
+![Banner](Banner.png)
 
 <!--
 **amresh13-off/amresh13-off** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
